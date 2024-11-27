@@ -1,5 +1,4 @@
-# play2x
-Play2x Roulette Script (PHP Casino Script) - 13 Modes
+# Play2x Roulette Script (PHP Casino Script) - 13 Modes
 
 Script features:
 1) 13 modes - Mines, Crash, Wheel, Dice, Coinflip, HiLo, Blackjack, Tower, Roulette, Stairs, Keno, Plinko, Cases
