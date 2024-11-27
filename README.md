@@ -1,5 +1,7 @@
 # Play2x Roulette Script (PHP Casino Script) - 13 Modes
 
+![Play2x Roulette Script (PHP Casino Script) - 13 Modes](https://cascripts.com/wa-data/public/shop/products/83/01/183/images/689/689.745.png))
+
 Script features:
 1) 13 modes - Mines, Crash, Wheel, Dice, Coinflip, HiLo, Blackjack, Tower, Roulette, Stairs, Keno, Plinko, Cases
 2) Full control of all modes
@@ -12,3 +14,6 @@ Script features:
 9) Daily bonus, notifications, promo codes and much more
 
 This script is unique and completely ready for creating a project.
+
+Download link for the script + instructions:
+https://cascripts.com/play2x-roulette-script-13-modes/
